@@ -1,0 +1,33 @@
+body {
+    background-image: url('img/neon3.avif');
+    text-align: center;
+    color: white(14, 14, 14);
+    font-size: 35px;
+   
+    
+
+}
+
+h1 {
+    color: white;
+    text-align:  center;
+    font-size: 50px;
+
+}
+
+p {
+    color: white;
+
+
+
+}
+
+.form-button .botons {
+    width: 100;
+    background: #6a277f;
+    border: groove;
+    padding: 15px;
+    color: white;
+    margin: 16px 0;
+    font-size: 20px;
+  }
